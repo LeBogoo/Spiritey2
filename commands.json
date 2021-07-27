@@ -10,6 +10,10 @@
         },
         "discord": {
             "twitch_script": "discord-twitch.js"
+        },
+        "version": {
+            "discord_script": "version-discord.js",
+            "twitch_script": "version-twitch.js"
         }
     }
 }
