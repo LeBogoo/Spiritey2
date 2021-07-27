@@ -13,9 +13,6 @@ ifeq (, $(wildcard ./.env))
 	@read -p "Enter DISCORD_CLIENTSECRET: " token; \
 	sed -i 's|<DISCORD_CLIENTSECRET>|'$$token'|g' .env
 
-	@read -p "Enter DISCORD_CLIENTID: " token; \
-	sed -i 's|<DISCORD_CLIENTID>|'$$token'|g' .env
-
 	@read -p "Enter TWITCH_USERNAME: " token; \
 	sed -i 's|<TWITCH_USERNAME>|'$$token'|g' .env
 
