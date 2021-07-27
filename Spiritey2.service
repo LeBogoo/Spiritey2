@@ -1,0 +1,14 @@
+[Unit]
+Description=Spiritey 2 - Twitch/Discord Bot
+Documentation=https://lebogo.tk
+After=network.target
+
+[Service]
+Type=simple
+User=USER
+ExecStart=/usr/bin/node WORKINGDIRECTORY/bot.js
+WorkingDirectory=WORKINGDIRECTORY
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
