@@ -1,0 +1,13 @@
+{
+    "prefix": "?",
+    "twitch_channel": "lebogoo",
+    "automessages": [
+        "Wo ist die Musik? Da ich aktuell kein Monstercat Gold mehr hab hab ich die einfach in Discord über nen Bot laufen. Komm gerne und hör mit! https://discord.gg/RrSJ2dbShH",
+        "Du möchtest mitspielen? Sammel genug Seelen und benutze dann den \"!mitspielen\" Befehl!",
+        "Du kannst deine Aktuellen Seelen mit \"!souls\" abrufen!",
+        "Du kannst anderen Zuschauen Seelen schenken indem du den \"!giftsouls NAME\" Befehl benutzt.",
+        "Alle 5 Minuten bekommst du 50 Seelen!",
+        "Für jede Chatnachricht hast du eine kleine Chance ordentlich Seelen abzukassieren!",
+        "Du möchtest mit mir und anderen aus der Community in kontakt treten? Tritt meinem Discord bei! https://discord.gg/RrSJ2dbShH"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "spiritey2",
+  "version": "1.0.0",
+  "description": "Twitch and Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "Discord",
+    "Bot"
+  ],
+  "author": "LeBogo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "disrequire": "^1.1.2",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "tmi.js": "^1.8.3"
+  }
+}

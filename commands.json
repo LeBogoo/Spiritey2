@@ -1,0 +1,16 @@
+{
+    "aliases": {
+        "hey": "hello",
+        "dc": "discord"
+    },
+    "commands": {
+        "hello": {
+            "twitch_script": "hello-twitch.js",
+            "discord_script": "hello-discord.js"
+        },
+        "discord": {
+            "twitch_script": "discord-twitch.js",
+            "discord_script": "discord-discord.js"
+        }
+    }
+}
