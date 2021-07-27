@@ -34,5 +34,5 @@ module.exports = async () => {
         if (diff < 100 * 60 * 5) automessager(config.twitch_channel, client);
     }
 
-    setInterval(TriggerAutoMessager, 1000 * 60 * 5);
+    setInterval(TriggerAutoMessager, 1000 * 60 * 10);
 }
