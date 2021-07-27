@@ -9,8 +9,7 @@
             "discord_script": "hello-discord.js"
         },
         "discord": {
-            "twitch_script": "discord-twitch.js",
-            "discord_script": "discord-discord.js"
+            "twitch_script": "discord-twitch.js"
         }
     }
 }
